@@ -1,0 +1,1 @@
+# dependabot-poc-bundler-7e4b
